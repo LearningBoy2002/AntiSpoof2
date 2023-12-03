@@ -1,0 +1,8 @@
+path: D:\Projects\AntiSpoof2\dataset
+train: train
+val: val
+test: test
+nc: 2 # Number of classes (real, spoof)
+names: ['real', 'spoof']
+# ... other configurations like epochs, batch size, etc.
+
